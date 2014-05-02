@@ -62,8 +62,8 @@ Make sure to set your Timezone on the WordPress Admin Settings page.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
 * properly set closing time if trying to order after hours
 
-= 1.0 =
+= 1.0.0 =
 * initial version
